@@ -1,6 +1,6 @@
 # 🎹 Minimalist HTML/CSS Piano
 
-Welcome to my HTML/CSS Piano project! This is a clean, responsive web user interface that renders a complete, beautifully structured layout of a musical keyboard https://rolandmihigo.github.io/-Minimalist-HTML-CSS-Piano/. 
+Welcome to my HTML/CSS Piano project! This is a clean, responsive web user interface that renders a complete, beautifully structured layout of a musical keyboard https://rolandmihigo.github.io/Minimalist-HTML-CSS-Piano/. 
 
 I play the piano myself, which is exactly why I decided to bring my passion for music into my journey as a developer. You can see a quick preview of my workspace and me playing in action [right here on YouTube Shorts](https://www.youtube.com/shorts/w7BB1mtc9m4).
 
